@@ -1,4 +1,4 @@
-## Merhaba, ben Bekir
+## Merhaba, ben Vega
 
 Modern, temiz ve fonksiyonel web arayüzlerine odaklanan genç bir web geliştiricisiyim.
 
